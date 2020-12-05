@@ -1,0 +1,4 @@
+/nix/store/xsin9q3v1rk7f9gakzwjs5h5x01s90kj-clion-2020.2.3/clion-2020.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jco/CLionProjects/tpNote3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jco/CLionProjects/tpNote3/cmake-build-debug

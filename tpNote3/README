@@ -1,0 +1,8 @@
+pour compiler: make
+pour exécuter: make run
+pour compiler et exécuter: make all
+appeler valgrind sur l'exécutable: make valgrind
+J'ai vérifié qu'il n'y a pas de fuite mémoire ou de delete invalide.
+
+Les fichiers sources se trouvent dans le dossier src, tandis que les
+headers se trouvent dans le dossier include.

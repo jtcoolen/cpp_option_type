@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jco/CLionProjects/tpNote3/include/optional.hpp
+ostream
+-
+functional
+-
+vector
+-
+algorithm
+-
+
+/home/jco/CLionProjects/tpNote3/include/optional_stack.hpp
+ostream
+-
+functional
+-
+
+/home/jco/CLionProjects/tpNote3/src/main.cpp
+iostream
+-
+../include/optional_stack.hpp
+/home/jco/CLionProjects/tpNote3/include/optional_stack.hpp
+../include/optional.hpp
+/home/jco/CLionProjects/tpNote3/include/optional.hpp
+

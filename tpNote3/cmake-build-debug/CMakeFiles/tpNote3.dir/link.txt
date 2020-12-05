@@ -1,0 +1,1 @@
+/nix/store/8pbwywcj6vbswz7xmy2dh716x8blgh8w-gcc-wrapper-9.3.0/bin/g++ -g CMakeFiles/tpNote3.dir/src/main.cpp.o -o tpNote3 

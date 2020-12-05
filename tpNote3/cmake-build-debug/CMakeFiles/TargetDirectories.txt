@@ -1,0 +1,3 @@
+/home/jco/CLionProjects/tpNote3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jco/CLionProjects/tpNote3/cmake-build-debug/CMakeFiles/tpNote3.dir
+/home/jco/CLionProjects/tpNote3/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tpNote3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jco/CLionProjects/tpNote3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jco/CLionProjects/tpNote3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tpNote3">
+				<Option output="/home/jco/CLionProjects/tpNote3/cmake-build-debug/tpNote3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jco/CLionProjects/tpNote3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/nix/store/61ya2rh7fs0i80mnm9biaf06x4wgabnp-compiler-rt-7.1.0-dev/include"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-unknown-linux-gnu"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/include"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/include"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/nix/store/4wy9j24psf9ny4di3anjs7yk2fvfb0gq-glibc-2.31-dev/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 tpNote3"/>
+					<CompileFile command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tpNote3/fast">
+				<Option output="/home/jco/CLionProjects/tpNote3/cmake-build-debug/tpNote3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jco/CLionProjects/tpNote3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/nix/store/61ya2rh7fs0i80mnm9biaf06x4wgabnp-compiler-rt-7.1.0-dev/include"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-unknown-linux-gnu"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/include"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/include"/>
+					<Add directory="/nix/store/h31cy7jm6g7cfqbhc5pm4rf9c53i3qfb-gcc-9.3.0/lib/gcc/x86_64-unknown-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/nix/store/4wy9j24psf9ny4di3anjs7yk2fvfb0gq-glibc-2.31-dev/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 tpNote3/fast"/>
+					<CompileFile command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jco/CLionProjects/tpNote3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/nix/store/n6pcva97lbir5fi50hqa6wpq5m493482-gnumake-4.3/bin/make -j4 -f &quot;/home/jco/CLionProjects/tpNote3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jco/CLionProjects/tpNote3/include/opt.hpp">
+			<Option target="tpNote3"/>
+		</Unit>
+		<Unit filename="/home/jco/CLionProjects/tpNote3/include/optional.hpp">
+			<Option target="tpNote3"/>
+		</Unit>
+		<Unit filename="/home/jco/CLionProjects/tpNote3/include/optional_pt.hpp">
+			<Option target="tpNote3"/>
+		</Unit>
+		<Unit filename="/home/jco/CLionProjects/tpNote3/include/optional_stack.hpp">
+			<Option target="tpNote3"/>
+		</Unit>
+		<Unit filename="/home/jco/CLionProjects/tpNote3/src/main.cpp">
+			<Option target="tpNote3"/>
+		</Unit>
+		<Unit filename="/home/jco/CLionProjects/tpNote3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jco/CLionProjects/tp9/Mon_ptr_u.hpp
+Mon_ptr_u.tcc
+/home/jco/CLionProjects/tp9/Mon_ptr_u.tcc
+
+/home/jco/CLionProjects/tp9/Mon_ptr_u.tcc
+
+/home/jco/CLionProjects/tp9/main.cpp
+iostream
+-
+Mon_ptr_u.hpp
+/home/jco/CLionProjects/tp9/Mon_ptr_u.hpp
+optional.hpp
+/home/jco/CLionProjects/tp9/optional.hpp
+
+/home/jco/CLionProjects/tp9/optional.hpp
+ostream
+-
+regex
+-
+
